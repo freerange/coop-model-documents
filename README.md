@@ -17,7 +17,7 @@ current before use.
 
 I downloaded
 the
-[PDF model document](https://www.uk.coop/developing-co-ops/model-governing-documents/worker-co-operative-company-limited-shares) for
+[PDF model document](https://www.uk.coop/sites/default/files/uploads/attachments/worker_co-operative_cls_0.pdf) for
 a "Worker Co-operative Company Limited by Shares" from the
 Co-operatives UK website on 2017-05-19. This document doesn't seem to
 have any version metadata associated with it. The dates attached to
